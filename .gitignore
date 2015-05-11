@@ -7,7 +7,12 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj
 
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+
+/etc
+/local_stuff
